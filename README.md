@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+Aplicativo calculadora, que realiza as 4 operações básicas.
 
 ## Getting Started
 
